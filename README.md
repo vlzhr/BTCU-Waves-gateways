@@ -4,6 +4,6 @@ Make Waves assets accessible on BTCU chain using Python server. Based on [PyWave
 
 Use it to swap:
 
-- [Neutrino stablecoin] (https://neutrino.at)
-- [Decentralized Forex assets] (https://waves.exchange/defo)
-- Any other [Waves tokens] (https://tokenrating.wavesexplorer.com)
+- [Neutrino stablecoin](https://neutrino.at)
+- [Decentralized Forex assets](https://waves.exchange/defo)
+- Any other [Waves tokens](https://tokenrating.wavesexplorer.com)
